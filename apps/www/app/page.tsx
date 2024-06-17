@@ -1,6 +1,8 @@
 import Image from "next/image"
 import Link from "next/link"
 
+ehehehehe
+
 import { siteConfig } from "@/config/site"
 import { cn } from "@/lib/utils"
 import { Announcement } from "@/components/announcement"
